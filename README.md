@@ -8,7 +8,7 @@ Projeto desenvolvido como follow-along das aulas, implementando um shooter 3D co
 
 ## 🎮 Demonstração
 
-![SpaceShooter Gameplay](SpaceShooter/Images/GamePrint.png)
+![SpaceShooter Gameplay](SpaceShooter/Images/GamePrint.PNG)
 
 
 ---
@@ -91,7 +91,7 @@ Project developed as a follow-along from classes, implementing a 3D shooter with
 
 ## 🎮 Demo
 
-![SpaceShooter Gameplay](SpaceShooter/Images/GamePrint.png)
+![SpaceShooter Gameplay](SpaceShooter/Images/GamePrint.PNG)
 
 
 ---
