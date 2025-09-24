@@ -9,7 +9,7 @@ Projeto desenvolvido como follow-along das aulas, implementando um shooter 3D co
 ## 🎮 Demonstração
 
 ![SpaceShooter Gameplay](SpaceShooter/Images)
-*Interface do jogo mostrando HUD, inimigos e efeitos de partículas*
+
 
 ---
 
@@ -92,7 +92,7 @@ Project developed as a follow-along from classes, implementing a 3D shooter with
 ## 🎮 Demo
 
 ![SpaceShooter Gameplay](SpaceShooter/Images)
-*Game interface showing HUD, enemies, and particle effects*
+
 
 ---
 
